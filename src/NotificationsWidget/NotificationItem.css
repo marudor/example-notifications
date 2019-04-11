@@ -1,0 +1,11 @@
+.notification {
+  border: 1px black solid;
+}
+
+.notification-alert {
+  background-color: red;
+}
+
+.notification-warning {
+  background-color: yellow;
+}
